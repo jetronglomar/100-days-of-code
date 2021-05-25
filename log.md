@@ -34,4 +34,4 @@
 
 **Today's Progress**: Started a course on freecodecamp.org regarding Responsive Web Design
 
-**Thoughts** I started a course on freecodecamp.org regarding responsive web design since I feel that this is one of the area I  should really work on. Kudos to the devs of freecodecamp for this awesome site! I learned a lot today. Looking forward to apply it on my future projects.
+**Thoughts** I started a course on freecodecamp.org regarding responsive web design since I feel that this is one of the areas I  should really work on. Kudos to the devs of freecodecamp for this awesome site! I learned a lot today. Looking forward to apply it on my future projects.
