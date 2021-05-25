@@ -1,32 +1,31 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: May 22, 2021 Saturday
 
-### **Today's Progress: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Worked on my portfolio and practicing my foundation on html and css.
 
-### Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Really excited to start this coding challenge and I've been stuck on a corporate setup where personally I think is limited for my skill growht. Decided to get out of my comfort zone and learn more things outside my current setup. That's why I decided to be commited on this challenge.
 
-### Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Porfolio](https://twitter.com/GlomarJet/status/1395937134201032704)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: May 23, 2021 Sunday
 
-### Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Worked on the layout of the portfolio and typography.
 
-### Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: Day 02 - this progress made my day! Grinning face with smiling eyes As a developer who works on backend most of the time, I'm happy to learn new stuffs like css grid. Looking forward on improving my portfolio.
 
-### Link(s) to work**: [Calculator App](http://www.example.com)
+<!--- **Link(s) to work**: [Portfolio](http://www.example.com) --->
 
 
-### Day 1: June 27, Monday
+### Day 3: June 24, Monday
 
-### Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Worked on navigation and menu.
 
-### Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Made a stopping point regarding my portfolio progress. Pretty satisfied about the current look and feel of it. Time to put some projects on it and work on my JS fundmentals.
 
-### **Link(s) to work**
-### 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 
-### doing test on pushing the repo
-
+<!--- **
+**Link(s) to work**
+1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+ --->
