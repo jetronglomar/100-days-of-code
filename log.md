@@ -29,3 +29,9 @@
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
  --->
+
+ ### Day 4: June 25, Monday
+
+**Today's Progress**: Started a course on freecodecamp.org regarding Responsive Web Design
+
+**Thoughts** I started a course on freecodecamp.org regarding responsive web design since I feel that this is one of the area I  should really work on. Kudos to the devs of freecodecamp for this awesome site! I learned a lot today. Looking forward to apply it on my future projects.
